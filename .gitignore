@@ -1,3 +1,4 @@
 build
 dist
 myanmar_words.egg-info
+.env
