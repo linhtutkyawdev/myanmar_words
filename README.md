@@ -1,8 +1,7 @@
 # myanmar_words
 
 [![PyPI](https://img.shields.io/pypi/v/myanmar_words)](https://pypi.org/project/myanmar_words/)
-[![License](https://img.shields.io/github/license/linhtutkyawdev/myanmar_words)](https://github.com/linhtutkyawdev/myanmar_words/blob/main/LICENSE)
-[![Build Status](https://travis-ci.org/linhtutkyawdev/myanmar_words.svg?branch=main)](https://travis-ci.org/linhtutkyawdev/myanmar_words)
+[![License](https://img.shields.io/github/license/linhtutkyawdev/myanmar_words)](https://github.com/linhtutkyawdev/myanmar_words/LICENSE)
 [![Python Versions](https://img.shields.io/pypi/pyversions/myanmar_words)](https://pypi.org/project/myanmar_words/)
 
 A Python library for working with Myanmar words and sentences.
