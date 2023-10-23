@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="myanmar_words",
-    version="1.0.1",
+    version="1.0.2",
     author="Lin Htut Kyaw",
     author_email="linhtutkyaw.dev@gmail.com",
     description="A Python library for working with Myanmar words and sentences.",
