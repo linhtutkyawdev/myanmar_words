@@ -9,8 +9,11 @@ A Python library for working with Myanmar words and sentences.
 
 ## Features
 
-- Tokenize Myanmar sentences into words.
 - Perform various text processing tasks on Myanmar text.
+- Tokenize Myanmar sentences into words.
+- Myanmar word count.
+- Find Myanmar words in a sentence.
+- Retrieve Myanmar words. (nouns, pronouns, verbs, adjectives, adverbs, conjunctions, postpositions, particles, all)
 
 ## Installation
 
@@ -45,11 +48,17 @@ We welcome contributions from the community. Please see our Contribution Guideli
 
 ## Authors
 
-Lin Htut Kyaw [https://linhtutkyawdev.vercel.app]
+Lin Htut Kyaw
+[https://linhtutkyawdev.vercel.app]
 
 ## Support
 
 If you have any questions, issues, or feature requests, please open an issue or contact us at [linhtutkyaw.dev@gmail.com].
+
+## Credit
+
+Credit to myanmartools for word collection
+[https://github.com/myanmartools/myanmar-words]
 
 ## Roadmap
 
